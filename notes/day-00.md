@@ -1,4 +1,4 @@
-# Day 1: Setup
+# Day 0: Setup
 
 ## Done
 - Enabled virtualization and installed WSL2 with Ubuntu (fixed error 0x80370114 and a DNS problem on the way)
