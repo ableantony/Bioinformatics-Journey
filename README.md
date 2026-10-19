@@ -15,7 +15,7 @@ Go from zero to running real analyses independently: sequence analysis, NGS pipe
 - [ ] Semester 3: drug discovery, workflows (capstone project)
 
 ## Tools used so far
-Linux terminal (WSL2 Ubuntu), Git, GitHub
+Linux terminal (WSL2 Ubuntu), Git, GitHub, Conda, VS Code
 
 ## Repo structure
 - `notes/` : daily learning notes
