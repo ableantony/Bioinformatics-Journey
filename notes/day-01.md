@@ -14,7 +14,7 @@
 - Terminal opened in /mnt/c/...: fixed with `cd ~`
 
 ## What I learned
-- (write 2 or 3 lines here in your own words)
+- (Most bioinformatics tools are built for Linux, so I installed WSL to run Linux inside Windows. Git saves snapshots of my files on my laptop, and GitHub is the online copy. A conda environment is a separate workspace, so installing one tool can’t break another.)
 
 ## Next
 - Week 1: Linux basics (Linux Journey), molecular biology refresher (Khan Academy)
