@@ -16,6 +16,3 @@ DNA -> RNA -> Protein
 
 - **Transcription:** The cell makes a temporary, single-stranded copy of a gene's DNA called **mRNA**, inside the nucleus.
 - **Translation:** The mRNA leaves the nucleus and goes to a **ribosome**. The ribosome reads the genetic code in sets of 3 letters called **codons**, and links amino acids together to make a functional protein.
-
-## Questions I still have
-- (add after Day 1)
