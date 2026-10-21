@@ -1,6 +1,6 @@
-# Day 0: Setup
+# Day 0: Setup 
 
-## Done
+## Done (Date: 18/10/2026)
 - Enabled virtualization and installed WSL2 with Ubuntu (fixed error 0x80370114 and a DNS problem on the way)
 - Installed Git, set up an SSH key, and linked my laptop to GitHub
 - Created the bioinformatics-journey repo, README, and folders
