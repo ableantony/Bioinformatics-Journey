@@ -1,4 +1,4 @@
-# Day 1
+# Day 1 (19/10/2026)
 
 ## Linux commands I learned
 | Command | What it does | Example |
