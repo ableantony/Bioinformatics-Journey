@@ -1,4 +1,4 @@
-# Day 2: DNA to Protein
+# Day 2: DNA to Protein (20/10/2026)
 
 ## DNA
 - Double helix, two antiparallel strands (5' to 3' and 3' to 5')
