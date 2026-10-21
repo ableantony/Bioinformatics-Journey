@@ -1,8 +1,8 @@
 # Day 3: Working with Files (Linux)
 
-**Date:** 22 October 2026
+**Date:** 21 October 2026
 **Focus:** File commands in the Linux terminal (WSL2 Ubuntu)
-**Status:** Complete. Reading commands moved to Day 4.
+**Status:** Complete.
 
 ---
 
